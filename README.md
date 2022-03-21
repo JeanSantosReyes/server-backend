@@ -1,4 +1,4 @@
-# server
+# SERVER
 CRUD MEAN
 
 * FRONTEND: Angular
